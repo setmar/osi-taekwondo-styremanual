@@ -1,4 +1,4 @@
-## Sjekkliste for semesterstart
+# Sjekkliste for semesterstart
 
 Noen av oppgavene er beskrevet under spesifikke verv. De oppgavene som ikke finnes under et spesifikt verv må fordeles på siste styremøte i forrige semester eller aller senest i første styremøte i inneværende semester.
 
@@ -15,6 +15,7 @@ Noen av oppgavene er beskrevet under spesifikke verv. De oppgavene som ikke finn
 * Oppdatere tilgang for e-postlister, Facebook-administratorer, web CMS, Google Docs, Google Calendar («OSI Taekwondo»), NKF-portal (styret/administratorer) og Mammut
 * Sette sammen og annonsere utstyrspakke til nye medlemmer.
 * Lage og publisere semesterplan: Oppdatér innledningen til semesterplan (søk etter «Semesterplan» på Google Docs) og kombinér denne med utskrift (til pdf) av kalenderen «OSI Taekwondo» etter den er oppdatert, til én pdf, som publiseres på nettsiden. Bruk f.eks. http://www.pdfmerge.com/ for å kombinere pdf-filene.
+  
   
   
   
