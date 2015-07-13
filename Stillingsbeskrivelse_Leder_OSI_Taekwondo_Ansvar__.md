@@ -3,8 +3,10 @@
 Ansvar: Delegere oppgaver. Følge opp og veilede styremedlemmer. Holde kontakt med OSI. Hovedansvar for oppdatering av styremanualen etter hvert semester, også de generelle delene.
 
 Arbeidsoppgaver:
-  1. Innkalle til styremøter og skrive saksliste.
-  2. Holde oppsummerings/planleggingsmøte med instruktører og styre etter hvert semester.
+
+ 1. Innkalle til styremøter og skrive saksliste.
+ 2. Holde oppsummerings/planleggingsmøte med instruktører og styre etter hvert semester.
+ 3. 
 3. Innkalle til Årsmøtet. Husk å sende inn grupperapport, budsjett og årsberetning til OSI.
 4. Søke om treningstider, gruppebevilgning og andre tilskudd. (Sendes sammen med dokumentene fra årsmøtet.)
 5. Sjekke alle aktive medlemmer i kxweb. Alle skal være registrert og ha betalt.
@@ -17,6 +19,7 @@ Arbeidsoppgaver:
 Tidsbruk:
 Deltagelse på styremøte: 1-2 t per styremøte
 Andre møter: 2t x 3 i løpet av året.
+  
   
   
   
