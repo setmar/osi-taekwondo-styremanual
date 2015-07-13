@@ -16,8 +16,11 @@ Arbeidsoppgaver:
 10. Oppdatere styremanual for ditt verv etter hvert semester!
 
 Tidsbruk:
-Deltagelse på styremøte: 1-2 t per styremøte\\
+
+Deltagelse på styremøte: 1-2 t per styremøte
+
 Andre møter: 2t x 3 i løpet av året.
+  
   
   
   
