@@ -1,3 +1,4 @@
 introduction.md
 Sjekkliste_for_semesterstart_Noen_av__.md
 Stillingsbeskrivelse_Leder_OSI_Taekwondo_Ansvar__.md
+Stillingsbeskrivelse_Nestleder_OSI_Taekwondo_Ansvar__.md
