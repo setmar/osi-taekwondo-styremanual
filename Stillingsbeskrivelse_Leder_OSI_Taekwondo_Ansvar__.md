@@ -18,8 +18,8 @@ Arbeidsoppgaver:
 Tidsbruk:
 
 Deltagelse på styremøte: 1-2 t per styremøte
-
 Andre møter: 2t x 3 i løpet av året.
+  
   
   
   
