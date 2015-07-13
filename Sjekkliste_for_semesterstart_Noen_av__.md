@@ -17,3 +17,4 @@ Noen av oppgavene er beskrevet under spesifikke verv. De oppgavene som ikke finn
 * Lage og publisere semesterplan: Oppdatér innledningen til semesterplan (søk etter «Semesterplan» på Google Docs) og kombinér denne med utskrift (til pdf) av kalenderen «OSI Taekwondo» etter den er oppdatert, til én pdf, som publiseres på nettsiden. Bruk f.eks. http://www.pdfmerge.com/ for å kombinere pdf-filene.
   
   
+  
