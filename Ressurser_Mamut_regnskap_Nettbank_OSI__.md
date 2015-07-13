@@ -12,10 +12,11 @@
 * Photoshop (plakater)
 * OSI-kontakt: Daglig leder OSI
 * NKF-kontakt: Idrettskonsulent NKF (klubbkontakt WTF-seksjonen; Julie Berge per i dag)
-* TTU-kontakt: xxx
+* TTU-kontakt: Martin Lilleeng Sætra
 * E-postlistene
  * Styret: taekwondo-styret@osi.uio.no
  * Instruktører: taekwondo-instruktorer@osi.uio.no
  * Alle medlemmer (påmelding gjøres på nettsiden vår): taekwondo@osi.uio.no
+  
   
   
