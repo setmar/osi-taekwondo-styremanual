@@ -1,4 +1,4 @@
-##Ressurser 
+# Ressurser 
 
 * Mamut (regnskap)
 * Nettbank
@@ -17,6 +17,7 @@
  * Styret: taekwondo-styret@osi.uio.no
  * Instruktører: taekwondo-instruktorer@osi.uio.no
  * Alle medlemmer (påmelding gjøres på nettsiden vår): taekwondo@osi.uio.no
+  
   
   
   
