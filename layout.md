@@ -8,3 +8,4 @@ Stillingsbeskrivelse_PR_ansvarling_OSI_Taekwondo__.md
 Stillingsbeskrivelse_Styremedlem_OSI_Taekwondo_Ansvar__.md
 Instrukt_rer_OSI_Taekwondo_OSI__.md
 Ressurser_Mamut_regnskap_Nettbank_OSI__.md
+Personlig_utbytte_fra_styreverv_Du__.md
