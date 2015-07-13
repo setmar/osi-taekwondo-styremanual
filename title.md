@@ -1,1 +1,2 @@
-osi-taekwondo-styremanual
+Styremanual for OSI Taekwondo
+  
