@@ -17,3 +17,5 @@ Tidsbruk
 
 Deltagelse på styremøte: 1-2 t per styremøte  
 Utførelse av prosjektoppgaver: 2,5t pr halvår
+
+  
