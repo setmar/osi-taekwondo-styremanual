@@ -14,7 +14,8 @@
 * NKF-kontakt: Idrettskonsulent NKF (klubbkontakt WTF-seksjonen; Julie Berge per i dag)
 * TTU-kontakt: xxx
 * E-postlistene
-* Styret: taekwondo-styret@osi.uio.no
-* Instruktører: taekwondo-instruktorer@osi.uio.no
-* Alle medlemmer (påmelding gjøres på nettsiden vår): taekwondo@osi.uio.no
+ * Styret: taekwondo-styret@osi.uio.no
+ * Instruktører: taekwondo-instruktorer@osi.uio.no
+ * Alle medlemmer (påmelding gjøres på nettsiden vår): taekwondo@osi.uio.no
+  
   
