@@ -9,7 +9,7 @@ Arbeidsoppgaver:
 3. Skrive referat fra styremøter
 På alle styremøter skal det skrives referat. En i styret tar med PC som referatet føres på. Refeatet skal publiseres på Google Disk.
 4. Oppdatere tilgang for styret på nettsidene og Facebook-gruppa.
-5. Holde e-postlistene oppdatert
+5. Holde e-postlistene oppdatert (Logg inn på https://sympa.uio.no/osi.uio.no, velg riktig liste og deretter "Review Members"):
  * Alle styremedlemmer (og ingen andre) i taekwondo-styret@osi.uio.no
  * Alle instruktører (og ingen andre) i taekwondo-instruktorer@osi.uio.no
 6. Arrangere dugnad.
@@ -31,6 +31,7 @@ Skrive referat fra styremøter: 1/2 time per styremøte
 Deltagelse på styremøte: 1-2 t per styremøte  
 Sette opp sosialplan: 2 timer per semester  
 Annet: 1/2 time per uke
+  
   
   
   
