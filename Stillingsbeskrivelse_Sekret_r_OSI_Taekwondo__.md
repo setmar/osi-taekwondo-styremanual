@@ -17,11 +17,11 @@ På alle styremøter skal det skrives referat. En i styret tar med PC som refera
  * Interndugnad: Det arrangeres minst en interndugnad i året.
  * Varetelling på vårsemesteret. Frist: 31.januar. Må gjøres før denne datoen pga. det er fristen for innesending av varebeholdning. Varebeholdning er varer for videresalg (Post 4210 i budsjett )
 7. Sette opp en Sosialplan for hvert semester. Turer, fester osv.
-* Sosialplanen matches opp mot treningsplan/(pr-plan).
-* Sosialplan settes opp på begynnelsen av hvert semester og være klar innen det 2. styremøte for semesteret.
-* Sosialplan legges på nettsiden og arrangementer annonseres på e-postliste og Facebook-gruppe.
-* Finne lokale
-* Innkjøp av mat, snacks osv.
+ * Sosialplanen matches opp mot treningsplan/(pr-plan).
+ * Sosialplan settes opp på begynnelsen av hvert semester og være klar innen det 2. styremøte for semesteret.
+ * Sosialplan legges på nettsiden og arrangementer annonseres på e-postliste og Facebook-gruppe.
+ * Finne lokale
+ * Innkjøp av mat, snacks osv.
 8. Moderere e-post til styrelista. Logg inn på https://sympa.uio.no/osi.uio.no, velg riktig liste og deretter «Messages» under menypunktet «Moderate». Dersom du ikke har admin-tilgang er det ditt ansvar og skaffe deg det. Nestleder er medansvarlig for moderering.
 9. Oppdatere styremanual for ditt verv etter hvert semester!
 
@@ -31,6 +31,7 @@ Skrive referat fra styremøter: 1/2 time per styremøte
 Deltagelse på styremøte: 1-2 t per styremøte  
 Sette opp sosialplan: 2 timer per semester  
 Annet: 1/2 time per uke
+  
   
   
   
