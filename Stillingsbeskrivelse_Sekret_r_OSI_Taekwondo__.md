@@ -13,9 +13,9 @@ På alle styremøter skal det skrives referat. En i styret tar med PC som refera
  * Alle styremedlemmer (og ingen andre) i taekwondo-styret@osi.uio.no
  * Alle instruktører (og ingen andre) i taekwondo-instruktorer@osi.uio.no
 6. Arrangere dugnad.
- * Inntektsdugnad: Det bør arrangeres to stykker i semesteret.
+ * Inntektsdugnad: Det bør arrangeres to stykker i semesteret. (Vi har styrevedtak på at inntektsdugnader ikke prioriteres så lenge vi ikke er flere medlemmer.)
  * Interndugnad: Det arrangeres minst en interndugnad i året.
-  * Vår: Varetelling. Frist: 31.januar. Må gjøres før denne datoen pga. det er fristen for innesending av varebeholdning. Varebeholdning er varer for videresalg (Post 4210 i budsjett )
+ * Vår: Varetelling. Frist: 31.januar. Må gjøres før denne datoen pga. det er fristen for innesending av varebeholdning. Varebeholdning er varer for videresalg (Post 4210 i budsjett )
 7. Sette opp en Sosialplan for hvert semester. Turer, fester osv.
 Sosialplanen matches opp mot treningsplan/(pr-plan).
 Sosialplan settes opp på begynnelsen av hvert semester og være klar innen det 2. styremøte for semesteret.
@@ -31,6 +31,7 @@ Skrive referat fra styremøter: 1/2 time per styremøte
 Deltagelse på styremøte: 1-2 t per styremøte  
 Sette opp sosialplan: 2 timer per semester  
 Annet: 1/2 time per uke
+  
   
   
   
