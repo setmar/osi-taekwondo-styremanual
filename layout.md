@@ -1,5 +1,5 @@
-introduction.md
 Bla__.md
+introduction.md
 Sjekkliste_for_semesterstart_Noen_av__.md
 Stillingsbeskrivelser_I_denne_delen_finnes__.md
 Stillingsbeskrivelse_Leder_OSI_Taekwondo_Ansvar__.md
@@ -11,3 +11,5 @@ Stillingsbeskrivelse_Styremedlem_OSI_Taekwondo_Ansvar__.md
 Instrukt_rer_OSI_Taekwondo_OSI__.md
 Ressurser_Mamut_regnskap_Nettbank_OSI__.md
 Personlig_utbytte_fra_styreverv_Du__.md
+
+  
