@@ -1,4 +1,5 @@
 Stillingsbeskrivelse oppdatert:
+
 * Leder: xxx
 * Nestleder: xxx
 * Økonom: xxx
@@ -10,4 +11,5 @@ Stillingsbeskrivelse oppdatert:
 Styremanual sjekket av leder: xxx
 
 Styremanual oppdatert: xxx
+  
   
