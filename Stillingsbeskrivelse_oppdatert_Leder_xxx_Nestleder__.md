@@ -10,6 +10,7 @@ Stillingsbeskrivelse oppdatert:
 
 Styremanual sjekket av leder: xxx
 
-Styremanual oppdatert: xxx
+Styremanual oppdatert: 2015-07-17
+  
   
   
