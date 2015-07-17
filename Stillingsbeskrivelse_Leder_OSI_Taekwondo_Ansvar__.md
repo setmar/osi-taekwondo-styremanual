@@ -14,12 +14,13 @@ Arbeidsoppgaver:
 8. Signere arbeidskontrakter og oppdatere OSI sin ansattliste.
 9. Vedlikehold og oppdatering av informasjon på nettsidene. Spesielt timeplan!
 10. Oppdatere styremanual for ditt verv etter hvert semester!
-11. Sjekk at alle styremedlemmer har oppdatert sitt verv i styremanualen, og gjør nødvndige endringer ellers i styremanualen
+11. Sjekk at alle styremedlemmer har oppdatert sitt verv i styremanualen, og gjør nødvendige endringer ellers i styremanualen
 
 Tidsbruk:
 
 Deltagelse på styremøte: 1-2 t per styremøte  
 Andre møter: 2t x 3 i løpet av året.
+  
   
   
   
