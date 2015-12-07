@@ -8,13 +8,14 @@ Arbeidsoppgaver:
 2. Kontakt mot TTU. Distribuere informasjon fra TTU til klubbens styre og medlemmer.
 3. Konakt mot Kampsportforbundet. Distribuere informasjon fra TTU til klubbens styre og medlemmer.
 4. Sørge for at styret og instruktørene har riktig tilgang på NKF-portalen.
-5. Gjøre klubbrapportering til TTU.
-6. Gjennomføre idrettsregistrering for NKF.
-7. Oppdatere og publisere semesterplan. (Se «Sjekkliste for semesterstart»)
-8. Vedlikehold og oppdatering av informasjon på nettsidene. Spesielt timeplan og lenker til betaling (via OSI og kxweb)!
-9. Hovedansvarlig for gjennomføring av gradering før sommer og jul.
-10.  Moderere e-post til styrelista. Logg inn på https://sympa.uio.no/osi.uio.no, velg riktig liste og deretter «Messages» under menypunktet «Moderate». Dersom du ikke har admin-tilgang er det ditt ansvar og skaffe deg det. Sekretær er medansvarlig for moderering.
-11.  Oppdatere styremanual for ditt verv etter hvert semester!
+5. Jevnlig sjekke etter ny-registrerte medlemmer på NKF-portalen: Velg "Godkj. medlem" under "Funksjoner". Ikke lag duplikatmedlemmer!
+6. Gjøre klubbrapportering til TTU.
+7. Gjennomføre idrettsregistrering for NKF.
+8. Oppdatere og publisere semesterplan. (Se «Sjekkliste for semesterstart»)
+9. Vedlikehold og oppdatering av informasjon på nettsidene. Spesielt timeplan og lenker til betaling (via OSI og kxweb)!
+10. Hovedansvarlig for gjennomføring av gradering før sommer og jul.
+11.  Moderere e-post til styrelista. Logg inn på https://sympa.uio.no/osi.uio.no, velg riktig liste og deretter «Messages» under menypunktet «Moderate». Dersom du ikke har admin-tilgang er det ditt ansvar og skaffe deg det. Sekretær er medansvarlig for moderering.
+12.  Oppdatere styremanual for ditt verv etter hvert semester!
 
 Tidsbruk:
 
